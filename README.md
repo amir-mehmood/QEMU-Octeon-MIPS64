@@ -1,11 +1,13 @@
- This code is enhancing QEMU capability such that it can emulate Octeon MIPS Linux Operating System and user applications.
+# Project Description
+This code is enhancing QEMU capability such that it can emulate Octeon MIPS Linux Operating System and user applications.
 
+# Citation
 Please use the following paper for citation in academic papers.
 
 M. A. Mehmood, Q. U. Ain, A. Akram, A. Qadeer and A. Waheed, "Emulating an Octeon MIPS64 based embedded system on X86 in QEMU," 2016 19th International Multi-Topic Conference (INMIC), Islamabad, 2016, pp. 1-7
 
 
-# QEMU-Octeon-MIPS64
+# QEMU-Octeon-MIPS64 Patch
 Patch for the emulation of Octeon MIPS64 in QEMU
 
 Preparing HOST
